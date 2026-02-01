@@ -71,6 +71,7 @@ img {
 .description {
   font-size: 0.9375rem;
   color: var(--grey500);
+  max-width: 55ch;
 }
 
 .card-heading {
